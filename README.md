@@ -7,7 +7,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I prefer to solve Discrete Algorithm problems in Python
 - 🌎 Location: New York City
-- 🤔 I’m open for Front/Back end roles, particularly with node.js or pyhthon in the back end
+- 🤔 I’m open for Front/Back end roles, particularly with node.js or pyhthon in the backend
 - 💬 Ask me about anything
 
 
