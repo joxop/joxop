@@ -1,4 +1,4 @@
-### Hi there, I'm Jhevon Tulloch [website] 👋 
+### Hi there, I'm Jhevon Tulloch 👋 
 
 ## I'm a Full Stack Web Developer, based out of New York City!!
 
@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I prefer to solve Discrete Algorithm problems in Python
 - 🌎 Location: New York City
 - 🤔 I’m open for Front/Back end roles, particularly with node.js or pyhthon in the backend
+- 🕸 Check out my [website]
 - 💬 Ask me about anything
 
 
