@@ -1,4 +1,4 @@
-### Hi there, I'm Jhevon [website] 👋 
+### Hi there, I'm Jhevon Tulloch [website] 👋 
 
 ## I'm a Full Stack Web Developer, based out of New York City!!
 
